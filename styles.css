@@ -1,0 +1,31 @@
+img {
+    width: 90px;
+    margin: 5px;
+}
+.row{
+    background: #D8E2DC;
+    border-radius: 5px;
+}
+.main{
+    margin: 20px;
+}
+.row.mb-3{
+    margin: 5px;
+    padding: 0px;
+}
+h2{
+    text-align: center;
+}
+input.form-control{
+    height: 70px;
+    font-size: 64px;
+    text-align: center;
+}
+select{
+    margin-bottom: 3px;
+    padding: 3px;
+    width: 72%;
+}
+#placa{
+    text-transform: uppercase;
+}
